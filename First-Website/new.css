@@ -1,0 +1,30 @@
+h2 {
+	color:black;
+	background-color: #36896e;
+}
+h1{
+	color:red;
+	background-color: #728ef0;
+}
+p{
+	line-height: 2em;
+	margin-bottom: 40px;
+	background-color: #36896e;
+}
+div{
+	background-color: #36896e;
+	width: 500px;
+	margin-right: auto;
+	margin-left: auto;
+	border: 3px solid black;
+}
+body{
+	font-family: Verdana;
+	text-align: center;
+	background-image: url(First-Website/background.jpg);
+}
+img{
+	float: right;
+	margin-left: 20px;
+	width: 200px;
+}
